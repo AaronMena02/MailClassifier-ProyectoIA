@@ -146,9 +146,8 @@ huggingface-cli upload ./priority_model --repo-id aaronmena02/priority-model-mai
 
 ```bash
 git clone https://github.com/AaronMena02/MailClassifier.git
-cd mail-classifier
 ```     
- p
+ 
 ### 2. Crea un entorno virtual
 
 ```bash
